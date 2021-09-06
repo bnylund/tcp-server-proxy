@@ -1,0 +1,10 @@
+{
+  "name": "tcp-server-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bnylund/tcp-server-proxy.git",
+  "author": "Benjamin Nylund <31191383+bnylund@users.noreply.github.com>",
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}

@@ -1,7 +1,7 @@
 const { io } = require('socket.io-client');
 const ServerManager = new (require('./server.js')).ServerManager();
-//const socket = io("https://srv.chezy.dev:9050", {secure: true});
-const socket = io("http://localhost:9050");
+const socket = io("http://34.219.15.141:9050");
+//const socket = io("http://localhost:9050");
 
 /*
 
